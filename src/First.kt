@@ -1,3 +1,4 @@
 fun main(){
-    println("Hello World")
+    val a = "Hello World from variable 'a'"
+    println(a)
 }
